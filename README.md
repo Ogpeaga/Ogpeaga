@@ -10,5 +10,5 @@ Backend Developer building scalable, business-driven systems with Java, Spring B
 
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=Ogpeaga&show_icons=true)
 
