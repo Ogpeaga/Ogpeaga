@@ -3,7 +3,7 @@
 Backend Developer building scalable systems with Java, Spring Boot, and PostgreSQL.
 
 ## 🚀 Technologies
-![My Skills](https://skillicons.dev/icons?i=java,spring,postgres,docker,git,github,vscode)
+![My Skills](https://skillicons.dev/icons?i=java,spring,postgres,docker,git,github,intelij)
 
 ## 📊 GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true)
