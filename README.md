@@ -1,6 +1,6 @@
 # Hi, I'm Pedro Delgado!
 
-Backend Developer building scalable systems with Java, Spring Boot, and PostgreSQL.
+Backend Developer building scalable, business-driven systems with Java, Spring Boot, and PostgreSQL.
 
 ## 🚀 Technologies
 ![My Skills](https://skillicons.dev/icons?i=java,spring,postgres,docker,git,github,idea)
