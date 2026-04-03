@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Pedro 👊💻
 
-<!--
-**Ogpeaga/Ogpeaga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Developer building scalable systems with Java, Spring Boot, and PostgreSQL.
 
-Here are some ideas to get you started:
+## 🚀 Technologies
+![My Skills](https://skillicons.dev/icons?i=java,spring,postgres,docker,git,github,vscode)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true)
+
+## 🌐 Contact
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](www.linkedin.com/in/devpedrodelgado)
+[![Gmail](https://img.shields.io/badge/Gmail-red)](mailto:pedro.dellgado2002@gmail.com)
