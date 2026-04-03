@@ -9,6 +9,3 @@ Backend Developer building scalable, business-driven systems with Java, Spring B
 ![My Skills](https://skillicons.dev/icons?i=java,spring,postgres,docker,git,github,idea)
 
 
-## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=Ogpeaga&show_icons=true)
-
