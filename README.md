@@ -1,4 +1,4 @@
-# Hi, I'm Pedro Delgado!
+#Pedro Delgado
 
 Backend Developer building scalable, business-driven systems with Java, Spring Boot, and PostgreSQL.
 
